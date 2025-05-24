@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sasidharperla/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sasidharperla/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sasidharperla/leetcode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sasidharperla/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sasidharperla/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sasidharperla/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
